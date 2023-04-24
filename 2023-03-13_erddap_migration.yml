@@ -1,0 +1,3 @@
+title: ERDDAP upgrade
+content: ERDDAP server upgraded to version 2.23. This update improves the ability of the ERDDAP server to process multiple simultaneous requests, amonght other improvements. There should be no changes for the user. For more information, see the change list at <a href="https://coastwatch.pfeg.noaa.gov/erddap/download/changes.html">https://coastwatch.pfeg.noaa.gov/erddap/download/changes.html</a>
+date: "2023-03-13"
